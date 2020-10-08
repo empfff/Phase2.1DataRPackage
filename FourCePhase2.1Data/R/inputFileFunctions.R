@@ -7,7 +7,7 @@
 #' @export
 
 get4ceRootDirectoryName <- function() {
-    return("/4ceData")
+    return("J:/Biomedical Informatics/Carolina Data Warehouse for Health/CDRN_ACT/4CE/4ceData")
 }
 
 #' Returns the name of the directory where site input data is expected to reside.
